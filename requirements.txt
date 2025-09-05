@@ -1,0 +1,6 @@
+langgraph>=0.2
+langgraph-cli[inmem]>=0.2
+langchain<0.2
+langchain-openai<0.2
+langchain-community<0.2
+python-dotenv>=1.0
